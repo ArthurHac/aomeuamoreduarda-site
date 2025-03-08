@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import CARTAS from "../../letters/carta";
 
 const PrincipalPage = () => {
