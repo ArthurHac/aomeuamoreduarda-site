@@ -7,7 +7,7 @@ const CARTAS: Letters[] = [
   },
   {
     titulo: "Nosso final de semana top!",
-    imagem: "src/images/cartinha_2.jpeg",
+    imagem: "/images/cartinha_2.jpeg",
     texto: `Olá, meu amor.
 
 Estou escrevendo essa cartinha de noite porque estava com um bloqueio criativo — hehehe — sei que você entende que minha condição com isso é meio merda. Enfim… aaaa, nosso final de semana foi muito bom! Ficamos juntinhos e fizemos várias coisas simples: compramos coisinhas de plantinhas, andamos em uma feira… nada demais, né? Mas quando é com você, qualquer rolê fica top instantaneamente. Sinto falta dessas coisas simples com você — passar o dia todo em casa vendo série, sapecando, comendo um açaí, parecendo um gato-tartaruga kakak.
