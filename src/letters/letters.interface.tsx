@@ -1,5 +1,6 @@
 
 export interface Letters {
     texto: string,
-    titulo: string
+    titulo: string,
+    imagem?: string
 }
