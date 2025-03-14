@@ -20,6 +20,14 @@ Te amo, e juro que vou ser mais frequente com as cartinhas, mas não sufoque o a
 
 Te amo muito!`
 
+  },
+  {
+    titulo: "Cantada de Bosta 💩",
+    imagem: "/images/cartinha_3.jpeg",
+    texto: `"Flores são vermelhas, borboletas são azuis, eu não sei rimar, mas me dá um beijo."
+    
+    Te amo mb!!
+    `
   }
 ];
 
