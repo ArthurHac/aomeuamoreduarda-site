@@ -28,6 +28,27 @@ Te amo muito!`
     
     Te amo mb!!
     `
+  },
+  {
+    titulo: "Feliz Dia dos Namorados, meu anjo!",
+    imagem: "/images/cartinha_5.jpeg",
+    texto: `
+      Já são 5 anos juntos, passando por cada momento lado a lado. Temos nossos problemas, mas aos poucos estamos ficando cada vez mais unidos.
+Eu te amo.
+Essa é uma frase importante no nosso relacionamento, dita todos os dias, pelo menos uma vez. Um momento onde conseguimos reafirmar aquilo que sentimos um pelo outro.
+"Eu te amo" é aquele momento em que me sinto importante para você, e sinto que faço parte da sua vida. Por mais que essas palavras sejam ditas todos os dias por nós, em nenhum momento elas perdem o peso — e isso é extremamente importante para o nosso crescimento.
+
+Aos poucos, sinto que estamos nos tornando um casal mais maduro. Sinto que estamos evoluindo juntos e aprendendo coisas novas um com o outro. Desde o início do nosso relacionamento, eu aprendi que posso ser uma pessoa mais sociável, que posso sair e aproveitar os momentos que a vida me proporciona, que posso ser eu mesma e rir de piadas erradas sem medo de ser julgada.
+Você tem me feito uma pessoa melhor em todas as áreas da vida, e quanto a isso, só posso ser grata pelo presente que é ter você ao meu lado.
+
+Eu te amo.
+\n
+\n
+\n
+
+Ir ao show do System com você foi uma das melhores experiências da minha vida. Obrigado por me acompanhar! <3
+`
+
   }
 ];
 
